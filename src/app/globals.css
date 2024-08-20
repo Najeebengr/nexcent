@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.heading-color{
+    @apply text-[#4D4D4D];
+}
+.sub-heading-style{
+   @apply text-[#4D4D4D] text-3xl font-semibold leading-10
+}
+.para-style{
+    @apply text-[#717171] font-normal ;
+}
